@@ -1,8 +1,10 @@
 # CraftsCore
-![Latest Release on Maven](https://repo.craftsblock.de/api/badge/latest/releases/de/craftsblock/craftscore/CraftsCore?color=40c14a&name=CraftsCore&prefix=v)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CrAfTsArMy/CraftsCore)
-![GitHub](https://img.shields.io/github/license/CrAfTsArMy/CraftsCore)
-![GitHub issues](https://img.shields.io/github/issues-raw/CrAfTsArMy/CraftsCore)
+![CraftsCore](https://img.shields.io/badge/Based%20on-CraftsCore%20v3.7.59-SNAPSHOT)
+![License](https://img.shields.io/badge/License-AGPL%203.0-blue)
+![Mumtad](https://img.shields.io/badge/Mumtad-Info%20below.-red)
+
+## Installation Info
+We didnt edited the Craftscore yet, the Installation below is for [the unedited original CraftsCore.](https://github.com/CrAfTsArMy/CraftsCore) When we release the first version of our edited CraftsCore we will [announce it in our Discord Server.](https://dsc.gg/cheeter)
 
 ### Maven
 ```xml
